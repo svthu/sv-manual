@@ -144,21 +144,6 @@ Ceagle 使用手册
 
 **欢迎**
 
-Ceagle是一个简单易用且功能强大的C语言程序验证工具，可以帮助软件工程师判定assert语句的正确性，也可以发现程序中的内存溢出、数组越界、野指针等问题，亦可以用来分析代码的可达性。
-
-Ceagle同时提供网页版和命令行版两个版本，方便不同需求、不同平台的用户使用。
-
-本使用手册旨在帮助新用户快速掌握Ceagle，也可以帮助老用户进阶使用。
-
-新用户
-
-*   阅读[概览](#301259762840345-_topic_Newtopic1)来了解Ceagle的不同版本和系统配置需求
-*   通过[快速开始](#301259762840345-_topic_Newtopic12)来熟悉C语言程序的验证流程。
-
-老用户
-
-*   阅读[新功能](#301259762840345-_topic_Newtopic8)来了解新版本的主要功能更新
-*   通过[快速开始](#301259762840345-_topic_Newtopic12)来熟悉新版本的验证流程。
 
 _Created with the Personal Edition of HelpNDoc:_ [_Free CHM Help documentation generator_](http://www.helpndoc.com)
 
