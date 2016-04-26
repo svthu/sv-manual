@@ -1,0 +1,4 @@
+sudo apt-get install npm
+sudo npm install -g gitbook-cli
+gitbook help
+gitbook build ./zh ./build
