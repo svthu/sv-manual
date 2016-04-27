@@ -1,0 +1,9 @@
+## 网页版－如何启动
+
+* 打开网页浏览器
+* 访问Ceagle网页版页面：[http://sts.thss.tsinghua.edu.cn/ceagle/online/](http://sts.thss.tsinghua.edu.cn/ceagle/online/)
+* （老用户可跳过这一步骤）点击注册按钮，填写相关信息，完成注册，并跳过下一步
+* 点击登陆按钮，输入用户名、密码进行登陆
+* 登陆成功后，Ceagle网页版页面，启动完成
+
+
