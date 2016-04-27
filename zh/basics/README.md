@@ -2,8 +2,8 @@
 
 * [添加约束](assume.md)
 * [添加属性](property/README.md)
-  * [通用属性](property/general.md)
-  * [assert](property/assert.md)
-  * [代码可达性](property/reachability.md)
+	* [通用属性](property/general.md)
+	* [assert](property/assert.md)
+	* [代码可达性](property/reachability.md)
 * [开始验证](verify.md)
 * [验证结果](result.md)
