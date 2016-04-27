@@ -53,6 +53,6 @@
 * [FAQ](faq/README.md)
 	* [开始使用](160)
 	* [基本功能](181)
-	* [高级功能](190)
+	* [高级功能](faq/advanced.md)
 	* [其它](205)
 * [附录：错误代码](errorcode/README.md)
