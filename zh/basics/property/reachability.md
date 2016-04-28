@@ -3,3 +3,8 @@ Ceagle支持验证程序中的某行代码是否可达，要使用这一功能�
 ## 网页版
 
 ## 命令行版
+
+```
+# 验证foo.c的第15行是否可达
+ceagle --property.reach=foo.c:15 foo.c
+```
