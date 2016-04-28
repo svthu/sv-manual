@@ -21,6 +21,7 @@
 	* [个性化设置](online/setting.md)
 * [命令行版](cli/README.md)
 	* [通用参数](cli/general.md)
+	* [编译器参数](cli/compiler.md)
 	* [验证引擎参数](cli/verify.md)
 	* [SMT引擎参数](cli/smt.md)
 * [基本功能](basics/README.md)
