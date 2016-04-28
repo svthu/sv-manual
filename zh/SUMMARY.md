@@ -31,6 +31,7 @@
 * [基本功能](basics/README.md)
 	* [添加约束](basics/assume.md)
 	* [添加属性](basics/property/README.md)
+		* [属性文件](basics/property/file.md)
 		* [通用属性](basics/property/general.md)
 		* [assert](basics/property/assert.md)
 		* [代码可达性](basics/property/reachability.md)
