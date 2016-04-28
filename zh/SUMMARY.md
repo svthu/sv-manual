@@ -24,6 +24,7 @@
 	* [编译器参数](cli/compiler.md)
 	* [验证引擎参数](cli/verify.md)
 	* [SMT引擎参数](cli/smt.md)
+	* [验证属性参数](cli/property.md)
 * [基本功能](basics/README.md)
 	* [添加约束](basics/assume.md)
 	* [添加属性](basics/property/README.md)
